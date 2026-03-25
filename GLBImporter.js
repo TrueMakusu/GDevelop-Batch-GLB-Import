@@ -3,7 +3,7 @@ const path = require('path');
 const crypto = require('crypto');
 
 // --- CONFIGURATION ---
-const PROJECT_FILE = './YourProjectHere.json'; 
+const PROJECT_FILE = './YourProjectHere'; 
 const MODELS_DIR = './assets/models'; 
 const SCALE = 100;
 // ---------------------
